@@ -66,3 +66,64 @@ Bibliografia Complementar:
 -VICTORINE VIVIANE MIZRAHI, Treinamento em Linguagem C Módulo 1, Makron Books, 2005
 
 -SCHILDT, HERBERT, C Completo e Total, Pearson, 2006.
+
+
+
+
+
+Programa da Disciplina:
+
+ICC1:
+
+1) C/C++ Program Compilation
+2) Introduction to C Basics
+
+a.	Input and Output (I/O):stdio.h
+
+b.	Variables
+
+c.	Conditionals
+
+d.	Looping and Iteration
+
+e.	Arrays
+
+f.	String Handling: <string.h>
+
+g.	Functions
+
+h.	Structures
+
+i.	Unions
+
+j.	Pointers
+
+ICC2:
+
+3)	Random Number: <stdlib.h>
+4)	File Manipulation: <fcntl.h>
+5)	Time Functions
+6)	Input and Output (I/O): curses.h
+7)	Dynamic Memory Allocation and Dynamic Structures
+8)	Advanced Pointer Topics
+9)	Command line input
+10)	Low Level Operators and Bit Fields
+11)	Graphic Output: Graphics.h
+12)	Progamação em Linguagens Montadoras (Assembly)
+13)	Aplicações: Programação de Jogos de Computador 
+14)	Aplicações: Inteligência Computacional
+15)	Aplicações: Algoritmos de Otimização: Algoritmos Evolutivos
+16)	Aplicações: Algoritmos de Classificação de Dados: Redes Neurais
+
+
+
+
+Metodologia:
+
+- As aulas serão principalmente expositivas com a utilização de transparências e sites, explicando-se também na lousa os conteúdos. Sendo assim, a cópia do material dado na lousa possibilitará a obtenção de uma síntese bem exemplificada dos conteúdos.
+- O aluno será avaliado individualmente no decorrer de cada aula prática.
+- Em cada aula prática, os alunos devem implementar seus programas em atividades de ensino de cada tópico apresentado.
+- As implementações que não forem concluídas no tempo das aulas práticas devem ser concluídas como trabalhos práticos realizados extraclasse e devem ser apresentados ao professor no início de cada aula. Se não apresentar, o aluno ficará com zero na nota específica da aula prática que perdeu.
+- Todo o material didático será disponibilizado diretamente aos alunos durante as aulas e através do site da disciplina.
+
+
