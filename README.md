@@ -22,9 +22,9 @@ Resolução de problemas e desenvolvimento de programas: análise e solução de
 Avaliação
       	Método
      	Atribuição e execução de exercícios de programação em Laboratório e atribuição de trabalhos extra-classes.
- 
      	Critério
-     	Serão atribuídas notas a trabalhos práticos realizados em sala de aula e extra-classe. A nota será calculada pela média ponderada das notas obtidas pelo aluno no decorrer do semestre. 
+     	Serão atribuídas notas a trabalhos práticos realizados em sala de aula e extra-classe. 
+      A nota será calculada pela média ponderada das notas obtidas pelo aluno no decorrer do semestre. 
 
  
      	Norma de Recuperação
